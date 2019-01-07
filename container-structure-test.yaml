@@ -3,4 +3,4 @@ fileExistenceTests:
 - name: 'Root'
   path: '/'
   shouldExist: true
-  permissions: '-rw-r--r--'
+  permissions: 'drwxr-xr-x'
