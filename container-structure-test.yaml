@@ -1,5 +1,5 @@
 fileExistenceTests:
-- name: 'Root'
-  path: '/'
-  shouldExist: true
-  permissions: '-rw-r--r--'
+  - name: 'Root'
+    path: '/'
+    shouldExist: true
+    permissions: '-rw-r--r--'
